@@ -1,4 +1,4 @@
-#test CMake add
+#test CMake add add
 
 cmake_minimum_required(VERSION 2.6)
 PROJECT(QtEvents)
